@@ -1,0 +1,47 @@
+body{
+    padding: 100px;
+    background: url(foto.jpg) repeat scroll center bottom;
+    border: 2px solid green;
+  
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:greenyellow;
+    font-size: 100px;
+    text-align: center;
+    text-shadow: 5px 4px 5px #000000;
+}
+h2,h3{
+    font-family: cursive;
+    color: white;
+    font-size: 40px;
+    text-align: justify;
+    text-shadow: 5px 4px 5px grey
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+    font-size: 20px;
+    text-align: justify;
+    text-shadow: 5px 4px 5px black;
+}
+ul>li:hover{
+    list-style: square inside;
+    background-color: greenyellow;
+    border: 10px grey turquoise;
+    
+
+}
+h4>a:visited{
+    color: green;
+
+}
+span{
+    color: white
+
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-size: 30px
+}

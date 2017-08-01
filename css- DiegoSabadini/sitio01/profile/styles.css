@@ -1,0 +1,35 @@
+body{
+    padding: 20px;
+    border: 2px solid black ;
+    background-color: blueviolet
+    
+
+
+}
+h1{
+    font-family: cursive;
+    color: tomato;
+
+    
+
+}
+p{
+    font-family: Courier New, Courier, monospace;
+    font-weight: bold;
+    text-decoration: overline;
+
+    
+}
+hr{
+    padding: 2px;
+    color: firebrick;
+}
+ol>li:hover{
+    list-style-type: decimal;
+    background-color: gray;
+    border: 2px solid pink;
+    list-style-position: inside
+}
+ul>li:hover{
+    list-style: square inside;
+}
